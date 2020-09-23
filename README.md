@@ -4,7 +4,6 @@ This repository contains a modified AMSI bypass script with added comments to be
 
 The main intention behind the modification of RastaMouse's script was to get a better handle on how it works in order to build better bypasses for AV evasion. 
 
-As of 6/28/2020, this is still undetected.
 
 # Usage
 ```
