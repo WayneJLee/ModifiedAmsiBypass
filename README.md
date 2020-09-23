@@ -6,6 +6,11 @@ The main intention behind the modification of RastaMouse's script was to get a b
 
 As of 6/28/2020, this is still undetected.
 
+# Usage
+```
+PS > .\AmsiBypass.ps1
+PS > Invoke-Bypass
+```
 
 # Credits 
 All credit goes to **RastaMouse** for the original script. 
